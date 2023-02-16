@@ -1,0 +1,9 @@
+body {
+    background-color: hsl(218, 44%, 22%);
+}
+
+.container {
+    color: aqua;
+    height: auto;
+    width: 100px;
+}
