@@ -1,9 +1,45 @@
 body {
-    background-color: hsl(218, 44%, 22%);
+    background-color: hsl(212, 45%, 89%);
+    text-align: center;
+}
+
+.container-fluid {
+    align-content: center;
+    padding-top: 100px;
 }
 
 .container {
-    color: aqua;
+    text-align: center;
+    width: 250px;
+    padding: 15px;
+    margin: auto;
+    border-radius: 5%;
+}
+
+.image {
     height: auto;
-    width: 100px;
+    width: 250px;
+    border-radius: 5%;
+}
+
+.h3 {
+    margin-top: 15px;
+    font-size: 22px;
+    text-align: center;
+    font-weight: 2000;
+    font-family: 'Outfit', sans-serif;
+}
+
+p {
+    margin-top: -10px;
+    font-size: 15px;
+    font-family: 'Outfit', sans-serif;
+    color: hsl(220, 15%, 55%);
+    font-weight: 500;
+}
+
+.attribution {
+    text-align: center;
+    position: relative;
+    bottom: -100px;
 }
